@@ -106,7 +106,7 @@ const ChecklistApp = () => {
             onError={(e) => { e.target.style.display = 'none'; }}
           />
           <div className="text-3xl font-black text-blue-500 tracking-tighter text-center mt-2">
-            DIEGO <span className="text-emerald-500">VMWARE</span>
+            RIVERITA <span className="text-emerald-500">TECH</span>
           </div>
         </div>
         
